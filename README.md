@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anisk-16
 - 👀 I’m interested in game dev and 
-- 🌱 I’m currently learning java script (beginner)
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
